@@ -1,4 +1,5 @@
 # Online Retail Project
+Data: https://www.kaggle.com/vijayuv/onlineretail
 - pandas, numpy, matplotlib, seaborn, plotly, sklearn(k-means clustering), elbow method, xgboost
 
 Metrics for Business
