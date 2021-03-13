@@ -2,7 +2,7 @@
 - pandas, numpy, matplotlib, seaborn, plotly, sklearn(k-means clustering), elbow method, xgboost
 
 Metrics for Business
-- make metrics: 
+- Build metrics: 
 Monthly Revenue, Monthly Active Customers, Monthly Order Count, Average Revenue per Order, 
 New Customer Ratio, Activation Rate, Monthly Retention Rate, Churn Rate, Cohort Base Retention
 
