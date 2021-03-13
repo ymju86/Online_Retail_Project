@@ -21,8 +21,8 @@ Customer Lifetime Value Prediction
 
 Predicting Next Purchase Day
 - pandas, numpy, matplotlib, seaborn, plotly, sklearn, xgboost
-•	Data Wrangling (creating previous/next datasets and calculate purchase day differences)
-•	Feature Engineering
-•	Selecting a Machine Learning Model
-•	Multi-Classification Model
-•	Hyperparameter Tuning
+-	Data Wrangling (creating previous/next datasets and calculate purchase day differences)
+-	Feature Engineering
+-	Selecting a Machine Learning Model
+-	Multi-Classification Model
+-	Hyperparameter Tuning
